@@ -70,7 +70,6 @@ PicardForge-Julia/
 ├── bdf.jl # BDF1–BDF6 implicit multistep (Picard–GS)
 ├── irk.jl # Gauss/Radau/Lobatto collocation IRK (Picard–GS)
 ├── sdirk.jl # SDIRK2–SDIRK4 implicit RK
-└── PicardForge.jl # Unified module export
 
 markdown
 Copy code
